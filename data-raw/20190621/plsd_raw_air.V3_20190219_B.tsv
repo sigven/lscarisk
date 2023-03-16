@@ -1,0 +1,661 @@
+age	sex	cancer	organ	gene	time_years	events_cases	air
+25	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1323	0	0
+30	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	2095	1	0.000477326968973747
+35	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	2711	4	0.00147547030616009
+40	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	3187	4	0.00125509883903357
+45	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	3288	2	0.000608272506082725
+50	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	3046	11	0.0036112934996717
+55	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	2553	6	0.00235017626321974
+60	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	2028	9	0.00443786982248521
+65	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1403	15	0.0106913756236636
+70	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	920	9	0.00978260869565217
+75	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	552	5	0.00905797101449275
+25	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1016	0	0
+30	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1496	0	0
+35	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	2028	0	0
+40	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	2487	3	0.00120627261761158
+45	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	2658	6	0.00225733634311512
+50	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	2615	14	0.00535372848948375
+55	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	2323	9	0.00387430047352561
+60	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1891	11	0.00581702802749868
+65	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1340	11	0.0082089552238806
+70	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	784	6	0.0076530612244898
+75	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	358	7	0.0195530726256983
+25	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	146	0	0
+30	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	286	0	0
+35	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	460	0	0
+40	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	560	0	0
+45	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	581	0	0
+50	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	621	1	0.00161030595813205
+55	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	681	1	0.00146842878120411
+60	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	638	0	0
+65	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	485	1	0.00206185567010309
+70	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	315	2	0.00634920634920635
+75	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	186	0	0
+25	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	50	0	0
+30	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	80	0	0
+35	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	150	0	0
+40	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	173	0	0
+45	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	246	1	0.0040650406504065
+50	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	316	0	0
+55	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	367	0	0
+60	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	314	1	0.00318471337579618
+65	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	240	0	0
+70	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	132	0	0
+75	BOTH	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	78	0	0
+25	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	1328	0	0
+30	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	2102	0	0
+35	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	2733	1	0.000365898280278083
+40	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	3209	0	0
+45	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	3314	7	0.00211225105612553
+50	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	3070	3	0.000977198697068404
+55	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	2568	6	0.00233644859813084
+60	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	2007	8	0.00398604882909816
+65	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	1390	4	0.00287769784172662
+70	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	923	7	0.0075839653304442
+75	BOTH	ICD9URO	Urine bladder/ureter/kidney	MLH1	517	3	0.00580270793036751
+25	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	1016	0	0
+30	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	1501	1	0.000666222518321119
+35	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	2021	0	0
+40	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	2466	9	0.00364963503649635
+45	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	2651	10	0.00377216144851
+50	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	2610	16	0.00613026819923372
+55	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	2305	18	0.00780911062906725
+60	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	1761	26	0.0147643384440659
+65	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	1153	11	0.00954032957502168
+70	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	653	10	0.0153139356814701
+75	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH2	273	5	0.0183150183150183
+25	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	146	0	0
+30	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	292	0	0
+35	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	464	0	0
+40	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	560	0	0
+45	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	579	2	0.00345423143350604
+50	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	624	0	0
+55	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	690	3	0.00434782608695652
+60	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	637	2	0.00313971742543171
+65	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	496	1	0.00201612903225806
+70	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	314	1	0.00318471337579618
+75	BOTH	ICD9URO	Urine bladder/ureter/kidney	MSH6	175	0	0
+25	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	50	0	0
+30	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	80	0	0
+35	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	150	0	0
+40	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	178	0	0
+45	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	249	0	0
+50	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	323	0	0
+55	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	369	0	0
+60	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	310	0	0
+65	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	233	0	0
+70	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	132	1	0.00757575757575758
+75	BOTH	ICD9URO	Urine bladder/ureter/kidney	PMS2	79	0	0
+25	BOTH	153154	Colon/sigmoid/rectum	MLH1	1233	5	0.0040551500405515
+30	BOTH	153154	Colon/sigmoid/rectum	MLH1	1829	20	0.0109349371241115
+35	BOTH	153154	Colon/sigmoid/rectum	MLH1	2083	31	0.014882381180989
+40	BOTH	153154	Colon/sigmoid/rectum	MLH1	2208	36	0.016304347826087
+45	BOTH	153154	Colon/sigmoid/rectum	MLH1	1952	30	0.0153688524590164
+50	BOTH	153154	Colon/sigmoid/rectum	MLH1	1563	28	0.017914267434421
+55	BOTH	153154	Colon/sigmoid/rectum	MLH1	1141	18	0.0157756354075372
+60	BOTH	153154	Colon/sigmoid/rectum	MLH1	801	16	0.0199750312109863
+65	BOTH	153154	Colon/sigmoid/rectum	MLH1	524	8	0.0152671755725191
+70	BOTH	153154	Colon/sigmoid/rectum	MLH1	300	5	0.0166666666666667
+75	BOTH	153154	Colon/sigmoid/rectum	MLH1	164	3	0.0182926829268293
+25	BOTH	153154	Colon/sigmoid/rectum	MSH2	911	4	0.00439077936333699
+30	BOTH	153154	Colon/sigmoid/rectum	MSH2	1330	8	0.00601503759398496
+35	BOTH	153154	Colon/sigmoid/rectum	MSH2	1642	11	0.00669914738124239
+40	BOTH	153154	Colon/sigmoid/rectum	MSH2	1694	20	0.0118063754427391
+45	BOTH	153154	Colon/sigmoid/rectum	MSH2	1625	15	0.00923076923076923
+50	BOTH	153154	Colon/sigmoid/rectum	MSH2	1435	26	0.0181184668989547
+55	BOTH	153154	Colon/sigmoid/rectum	MSH2	1207	15	0.0124275062137531
+60	BOTH	153154	Colon/sigmoid/rectum	MSH2	859	20	0.0232828870779977
+65	BOTH	153154	Colon/sigmoid/rectum	MSH2	544	12	0.0220588235294118
+70	BOTH	153154	Colon/sigmoid/rectum	MSH2	339	6	0.0176991150442478
+75	BOTH	153154	Colon/sigmoid/rectum	MSH2	171	4	0.0233918128654971
+25	BOTH	153154	Colon/sigmoid/rectum	MSH6	133	0	0
+30	BOTH	153154	Colon/sigmoid/rectum	MSH6	264	1	0.00378787878787879
+35	BOTH	153154	Colon/sigmoid/rectum	MSH6	387	2	0.00516795865633075
+40	BOTH	153154	Colon/sigmoid/rectum	MSH6	459	1	0.00217864923747277
+45	BOTH	153154	Colon/sigmoid/rectum	MSH6	451	0	0
+50	BOTH	153154	Colon/sigmoid/rectum	MSH6	466	1	0.00214592274678112
+55	BOTH	153154	Colon/sigmoid/rectum	MSH6	489	3	0.00613496932515337
+60	BOTH	153154	Colon/sigmoid/rectum	MSH6	416	5	0.0120192307692308
+65	BOTH	153154	Colon/sigmoid/rectum	MSH6	283	2	0.00706713780918728
+70	BOTH	153154	Colon/sigmoid/rectum	MSH6	184	1	0.00543478260869565
+75	BOTH	153154	Colon/sigmoid/rectum	MSH6	115	2	0.0173913043478261
+25	BOTH	153154	Colon/sigmoid/rectum	PMS2	48	0	0
+30	BOTH	153154	Colon/sigmoid/rectum	PMS2	74	0	0
+35	BOTH	153154	Colon/sigmoid/rectum	PMS2	138	0	0
+40	BOTH	153154	Colon/sigmoid/rectum	PMS2	140	0	0
+45	BOTH	153154	Colon/sigmoid/rectum	PMS2	148	0	0
+50	BOTH	153154	Colon/sigmoid/rectum	PMS2	176	0	0
+55	BOTH	153154	Colon/sigmoid/rectum	PMS2	213	0	0
+60	BOTH	153154	Colon/sigmoid/rectum	PMS2	204	0	0
+65	BOTH	153154	Colon/sigmoid/rectum	PMS2	145	1	0.00689655172413793
+70	BOTH	153154	Colon/sigmoid/rectum	PMS2	67	1	0.0149253731343284
+75	BOTH	153154	Colon/sigmoid/rectum	PMS2	25	0	0
+25	BOTH	VP_LS_AIR_BASE	Any	MLH1	1217	5	0.00410846343467543
+30	BOTH	VP_LS_AIR_BASE	Any	MLH1	1788	24	0.0134228187919463
+35	BOTH	VP_LS_AIR_BASE	Any	MLH1	2026	39	0.0192497532082922
+40	BOTH	VP_LS_AIR_BASE	Any	MLH1	2081	59	0.0283517539644402
+45	BOTH	VP_LS_AIR_BASE	Any	MLH1	1709	52	0.0304271503803394
+50	BOTH	VP_LS_AIR_BASE	Any	MLH1	1253	45	0.0359138068635275
+55	BOTH	VP_LS_AIR_BASE	Any	MLH1	833	32	0.0384153661464586
+60	BOTH	VP_LS_AIR_BASE	Any	MLH1	489	19	0.0388548057259714
+65	BOTH	VP_LS_AIR_BASE	Any	MLH1	268	11	0.041044776119403
+70	BOTH	VP_LS_AIR_BASE	Any	MLH1	149	6	0.0402684563758389
+75	BOTH	VP_LS_AIR_BASE	Any	MLH1	77	3	0.038961038961039
+25	BOTH	VP_LS_AIR_BASE	Any	MSH2	885	5	0.00564971751412429
+30	BOTH	VP_LS_AIR_BASE	Any	MSH2	1271	17	0.013375295043273
+35	BOTH	VP_LS_AIR_BASE	Any	MSH2	1531	15	0.00979751796211626
+40	BOTH	VP_LS_AIR_BASE	Any	MSH2	1491	41	0.0274983232729712
+45	BOTH	VP_LS_AIR_BASE	Any	MSH2	1269	37	0.0291568163908589
+50	BOTH	VP_LS_AIR_BASE	Any	MSH2	947	45	0.0475184794086589
+55	BOTH	VP_LS_AIR_BASE	Any	MSH2	669	24	0.0358744394618834
+60	BOTH	VP_LS_AIR_BASE	Any	MSH2	423	13	0.0307328605200946
+65	BOTH	VP_LS_AIR_BASE	Any	MSH2	207	14	0.0676328502415459
+70	BOTH	VP_LS_AIR_BASE	Any	MSH2	140	8	0.0571428571428571
+75	BOTH	VP_LS_AIR_BASE	Any	MSH2	72	3	0.0416666666666667
+25	BOTH	VP_LS_AIR_BASE	Any	MSH6	132	0	0
+30	BOTH	VP_LS_AIR_BASE	Any	MSH6	260	1	0.00384615384615385
+35	BOTH	VP_LS_AIR_BASE	Any	MSH6	373	2	0.00536193029490617
+40	BOTH	VP_LS_AIR_BASE	Any	MSH6	433	4	0.0092378752886836
+45	BOTH	VP_LS_AIR_BASE	Any	MSH6	398	7	0.0175879396984925
+50	BOTH	VP_LS_AIR_BASE	Any	MSH6	372	7	0.0188172043010753
+55	BOTH	VP_LS_AIR_BASE	Any	MSH6	326	10	0.0306748466257669
+60	BOTH	VP_LS_AIR_BASE	Any	MSH6	209	5	0.0239234449760766
+65	BOTH	VP_LS_AIR_BASE	Any	MSH6	145	2	0.0137931034482759
+70	BOTH	VP_LS_AIR_BASE	Any	MSH6	91	2	0.021978021978022
+75	BOTH	VP_LS_AIR_BASE	Any	MSH6	51	1	0.0196078431372549
+25	BOTH	VP_LS_AIR_BASE	Any	PMS2	48	0	0
+30	BOTH	VP_LS_AIR_BASE	Any	PMS2	74	0	0
+35	BOTH	VP_LS_AIR_BASE	Any	PMS2	134	0	0
+40	BOTH	VP_LS_AIR_BASE	Any	PMS2	118	0	0
+45	BOTH	VP_LS_AIR_BASE	Any	PMS2	118	2	0.0169491525423729
+50	BOTH	VP_LS_AIR_BASE	Any	PMS2	141	2	0.0141843971631206
+55	BOTH	VP_LS_AIR_BASE	Any	PMS2	173	3	0.0173410404624277
+60	BOTH	VP_LS_AIR_BASE	Any	PMS2	159	0	0
+65	BOTH	VP_LS_AIR_BASE	Any	PMS2	111	0	0
+70	BOTH	VP_LS_AIR_BASE	Any	PMS2	59	2	0.0338983050847458
+75	BOTH	VP_LS_AIR_BASE	Any	PMS2	23	0	0
+25	FEMALE	174	Breast	MLH1	722	0	0
+30	FEMALE	174	Breast	MLH1	1056	0	0
+35	FEMALE	174	Breast	MLH1	1414	1	0.000707213578500707
+40	FEMALE	174	Breast	MLH1	1670	4	0.00239520958083832
+45	FEMALE	174	Breast	MLH1	1729	3	0.00173510699826489
+50	FEMALE	174	Breast	MLH1	1637	6	0.00366524129505192
+55	FEMALE	174	Breast	MLH1	1357	8	0.00589535740604274
+60	FEMALE	174	Breast	MLH1	1090	4	0.0036697247706422
+65	FEMALE	174	Breast	MLH1	741	3	0.00404858299595142
+70	FEMALE	174	Breast	MLH1	497	2	0.00402414486921529
+75	FEMALE	174	Breast	MLH1	353	1	0.0028328611898017
+25	FEMALE	174	Breast	MSH2	576	0	0
+30	FEMALE	174	Breast	MSH2	782	1	0.00127877237851662
+35	FEMALE	174	Breast	MSH2	1024	1	0.0009765625
+40	FEMALE	174	Breast	MSH2	1267	2	0.0015785319652723
+45	FEMALE	174	Breast	MSH2	1369	4	0.0029218407596786
+50	FEMALE	174	Breast	MSH2	1354	6	0.00443131462333826
+55	FEMALE	174	Breast	MSH2	1240	5	0.00403225806451613
+60	FEMALE	174	Breast	MSH2	1030	6	0.0058252427184466
+65	FEMALE	174	Breast	MSH2	698	4	0.00573065902578797
+70	FEMALE	174	Breast	MSH2	422	2	0.004739336492891
+75	FEMALE	174	Breast	MSH2	223	0	0
+25	FEMALE	174	Breast	MSH6	74	0	0
+30	FEMALE	174	Breast	MSH6	137	0	0
+35	FEMALE	174	Breast	MSH6	221	0	0
+40	FEMALE	174	Breast	MSH6	300	1	0.00333333333333333
+45	FEMALE	174	Breast	MSH6	341	0	0
+50	FEMALE	174	Breast	MSH6	379	1	0.00263852242744063
+55	FEMALE	174	Breast	MSH6	382	3	0.00785340314136126
+60	FEMALE	174	Breast	MSH6	339	2	0.00589970501474926
+65	FEMALE	174	Breast	MSH6	268	1	0.00373134328358209
+70	FEMALE	174	Breast	MSH6	168	1	0.00595238095238095
+75	FEMALE	174	Breast	MSH6	102	2	0.0196078431372549
+25	FEMALE	174	Breast	PMS2	34	0	0
+30	FEMALE	174	Breast	PMS2	41	0	0
+35	FEMALE	174	Breast	PMS2	78	0	0
+40	FEMALE	174	Breast	PMS2	94	0	0
+45	FEMALE	174	Breast	PMS2	128	0	0
+50	FEMALE	174	Breast	PMS2	167	2	0.0119760479041916
+55	FEMALE	174	Breast	PMS2	206	1	0.00485436893203883
+60	FEMALE	174	Breast	PMS2	182	0	0
+65	FEMALE	174	Breast	PMS2	134	0	0
+70	FEMALE	174	Breast	PMS2	63	1	0.0158730158730159
+75	FEMALE	174	Breast	PMS2	39	0	0
+25	FEMALE	182183	Endometrium/ovaries	MLH1	716	0	0
+30	FEMALE	182183	Endometrium/ovaries	MLH1	1049	1	0.000953288846520496
+35	FEMALE	182183	Endometrium/ovaries	MLH1	1326	9	0.00678733031674208
+40	FEMALE	182183	Endometrium/ovaries	MLH1	1382	20	0.0144717800289436
+45	FEMALE	182183	Endometrium/ovaries	MLH1	1180	26	0.0220338983050847
+50	FEMALE	182183	Endometrium/ovaries	MLH1	858	26	0.0303030303030303
+55	FEMALE	182183	Endometrium/ovaries	MLH1	589	7	0.0118845500848896
+60	FEMALE	182183	Endometrium/ovaries	MLH1	454	7	0.0154185022026432
+65	FEMALE	182183	Endometrium/ovaries	MLH1	284	3	0.0105633802816901
+70	FEMALE	182183	Endometrium/ovaries	MLH1	178	1	0.00561797752808989
+75	FEMALE	182183	Endometrium/ovaries	MLH1	136	3	0.0220588235294118
+25	FEMALE	182183	Endometrium/ovaries	MSH2	570	0	0
+30	FEMALE	182183	Endometrium/ovaries	MSH2	768	3	0.00390625
+35	FEMALE	182183	Endometrium/ovaries	MSH2	946	5	0.00528541226215645
+40	FEMALE	182183	Endometrium/ovaries	MSH2	956	20	0.0209205020920502
+45	FEMALE	182183	Endometrium/ovaries	MSH2	784	25	0.0318877551020408
+50	FEMALE	182183	Endometrium/ovaries	MSH2	528	27	0.0511363636363636
+55	FEMALE	182183	Endometrium/ovaries	MSH2	390	5	0.0128205128205128
+60	FEMALE	182183	Endometrium/ovaries	MSH2	316	4	0.0126582278481013
+65	FEMALE	182183	Endometrium/ovaries	MSH2	198	6	0.0303030303030303
+70	FEMALE	182183	Endometrium/ovaries	MSH2	97	1	0.0103092783505155
+75	FEMALE	182183	Endometrium/ovaries	MSH2	52	0	0
+25	FEMALE	182183	Endometrium/ovaries	MSH6	73	0	0
+30	FEMALE	182183	Endometrium/ovaries	MSH6	137	0	0
+35	FEMALE	182183	Endometrium/ovaries	MSH6	217	2	0.00921658986175115
+40	FEMALE	182183	Endometrium/ovaries	MSH6	287	2	0.00696864111498258
+45	FEMALE	182183	Endometrium/ovaries	MSH6	261	4	0.0153256704980843
+50	FEMALE	182183	Endometrium/ovaries	MSH6	224	5	0.0223214285714286
+55	FEMALE	182183	Endometrium/ovaries	MSH6	176	3	0.0170454545454545
+60	FEMALE	182183	Endometrium/ovaries	MSH6	137	4	0.0291970802919708
+65	FEMALE	182183	Endometrium/ovaries	MSH6	102	3	0.0294117647058824
+70	FEMALE	182183	Endometrium/ovaries	MSH6	48	0	0
+75	FEMALE	182183	Endometrium/ovaries	MSH6	26	0	0
+25	FEMALE	182183	Endometrium/ovaries	PMS2	34	0	0
+30	FEMALE	182183	Endometrium/ovaries	PMS2	41	0	0
+35	FEMALE	182183	Endometrium/ovaries	PMS2	77	0	0
+40	FEMALE	182183	Endometrium/ovaries	PMS2	92	0	0
+45	FEMALE	182183	Endometrium/ovaries	PMS2	115	0	0
+50	FEMALE	182183	Endometrium/ovaries	PMS2	140	1	0.00714285714285714
+55	FEMALE	182183	Endometrium/ovaries	PMS2	160	3	0.01875
+60	FEMALE	182183	Endometrium/ovaries	PMS2	128	1	0.0078125
+65	FEMALE	182183	Endometrium/ovaries	PMS2	75	0	0
+70	FEMALE	182183	Endometrium/ovaries	PMS2	42	0	0
+75	FEMALE	182183	Endometrium/ovaries	PMS2	20	0	0
+25	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	718	0	0
+30	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1054	1	0.00094876660341556
+35	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1408	2	0.00142045454545455
+40	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1683	1	0.0005941770647653
+45	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1744	1	0.000573394495412844
+50	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1642	7	0.00426309378806334
+55	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1382	2	0.00144717800289436
+60	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1131	2	0.0017683465959328
+65	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	768	5	0.00651041666666667
+70	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	518	3	0.00579150579150579
+75	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	361	1	0.00277008310249307
+25	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	576	0	0
+30	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	782	0	0
+35	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1034	0	0
+40	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1280	3	0.00234375
+45	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1375	3	0.00218181818181818
+50	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1377	6	0.00435729847494553
+55	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1304	3	0.00230061349693252
+60	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1102	6	0.00544464609800363
+65	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	745	3	0.00402684563758389
+70	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	442	3	0.00678733031674208
+75	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	238	4	0.0168067226890756
+25	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	74	0	0
+30	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	133	0	0
+35	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	221	0	0
+40	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	312	0	0
+45	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	349	0	0
+50	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	394	0	0
+55	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	407	0	0
+60	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	378	0	0
+65	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	285	1	0.00350877192982456
+70	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	195	1	0.00512820512820513
+75	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	119	0	0
+25	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	34	0	0
+30	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	41	0	0
+35	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	82	0	0
+40	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	99	0	0
+45	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	138	0	0
+50	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	176	0	0
+55	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	213	0	0
+60	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	191	1	0.00523560209424084
+65	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	145	0	0
+70	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	69	0	0
+75	FEMALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	39	0	0
+25	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	723	0	0
+30	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1058	0	0
+35	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1414	1	0.000707213578500707
+40	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1689	0	0
+45	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1748	2	0.0011441647597254
+50	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1654	1	0.00060459492140266
+55	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1391	2	0.00143781452192667
+60	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1121	4	0.00356824264049955
+65	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	752	2	0.00265957446808511
+70	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	513	4	0.00779727095516569
+75	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	350	2	0.00571428571428571
+25	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	576	0	0
+30	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	780	1	0.00128205128205128
+35	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1024	0	0
+40	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1278	4	0.00312989045383412
+45	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1378	6	0.00435413642960813
+50	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1373	7	0.00509832483612527
+55	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1306	4	0.00306278713629403
+60	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1054	14	0.0132827324478178
+65	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	666	8	0.012012012012012
+70	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	378	6	0.0158730158730159
+75	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	193	5	0.0259067357512953
+25	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	74	0	0
+30	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	137	0	0
+35	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	225	0	0
+40	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	312	0	0
+45	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	349	0	0
+50	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	394	0	0
+55	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	404	2	0.00495049504950495
+60	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	369	2	0.00542005420054201
+65	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	282	1	0.00354609929078014
+70	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	193	0	0
+75	FEMALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	111	0	0
+25	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	34	0	0
+30	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	41	0	0
+35	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	82	0	0
+40	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	99	0	0
+45	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	138	0	0
+50	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	176	0	0
+55	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	212	0	0
+60	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	187	0	0
+65	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	140	0	0
+70	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	69	0	0
+75	FEMALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	39	0	0
+25	FEMALE	153154	Colon/sigmoid/rectum	MLH1	683	0	0
+30	FEMALE	153154	Colon/sigmoid/rectum	MLH1	942	9	0.00955414012738853
+35	FEMALE	153154	Colon/sigmoid/rectum	MLH1	1099	17	0.0154686078252957
+40	FEMALE	153154	Colon/sigmoid/rectum	MLH1	1214	15	0.0123558484349259
+45	FEMALE	153154	Colon/sigmoid/rectum	MLH1	1128	10	0.00886524822695036
+50	FEMALE	153154	Colon/sigmoid/rectum	MLH1	958	15	0.0156576200417537
+55	FEMALE	153154	Colon/sigmoid/rectum	MLH1	719	11	0.0152990264255911
+60	FEMALE	153154	Colon/sigmoid/rectum	MLH1	530	11	0.0207547169811321
+65	FEMALE	153154	Colon/sigmoid/rectum	MLH1	343	6	0.0174927113702624
+70	FEMALE	153154	Colon/sigmoid/rectum	MLH1	194	3	0.0154639175257732
+75	FEMALE	153154	Colon/sigmoid/rectum	MLH1	124	3	0.0241935483870968
+25	FEMALE	153154	Colon/sigmoid/rectum	MSH2	523	2	0.00382409177820268
+30	FEMALE	153154	Colon/sigmoid/rectum	MSH2	713	5	0.00701262272089762
+35	FEMALE	153154	Colon/sigmoid/rectum	MSH2	895	3	0.00335195530726257
+40	FEMALE	153154	Colon/sigmoid/rectum	MSH2	933	11	0.0117899249732047
+45	FEMALE	153154	Colon/sigmoid/rectum	MSH2	922	10	0.0108459869848156
+50	FEMALE	153154	Colon/sigmoid/rectum	MSH2	872	13	0.0149082568807339
+55	FEMALE	153154	Colon/sigmoid/rectum	MSH2	809	7	0.00865265760197775
+60	FEMALE	153154	Colon/sigmoid/rectum	MSH2	627	16	0.025518341307815
+65	FEMALE	153154	Colon/sigmoid/rectum	MSH2	415	9	0.0216867469879518
+70	FEMALE	153154	Colon/sigmoid/rectum	MSH2	238	4	0.0168067226890756
+75	FEMALE	153154	Colon/sigmoid/rectum	MSH2	119	4	0.0336134453781513
+25	FEMALE	153154	Colon/sigmoid/rectum	MSH6	69	0	0
+30	FEMALE	153154	Colon/sigmoid/rectum	MSH6	132	0	0
+35	FEMALE	153154	Colon/sigmoid/rectum	MSH6	198	1	0.00505050505050505
+40	FEMALE	153154	Colon/sigmoid/rectum	MSH6	251	1	0.00398406374501992
+45	FEMALE	153154	Colon/sigmoid/rectum	MSH6	278	0	0
+50	FEMALE	153154	Colon/sigmoid/rectum	MSH6	325	1	0.00307692307692308
+55	FEMALE	153154	Colon/sigmoid/rectum	MSH6	311	2	0.00643086816720257
+60	FEMALE	153154	Colon/sigmoid/rectum	MSH6	260	4	0.0153846153846154
+65	FEMALE	153154	Colon/sigmoid/rectum	MSH6	180	2	0.0111111111111111
+70	FEMALE	153154	Colon/sigmoid/rectum	MSH6	118	0	0
+75	FEMALE	153154	Colon/sigmoid/rectum	MSH6	81	1	0.0123456790123457
+25	FEMALE	153154	Colon/sigmoid/rectum	PMS2	33	0	0
+30	FEMALE	153154	Colon/sigmoid/rectum	PMS2	39	0	0
+35	FEMALE	153154	Colon/sigmoid/rectum	PMS2	76	0	0
+40	FEMALE	153154	Colon/sigmoid/rectum	PMS2	83	0	0
+45	FEMALE	153154	Colon/sigmoid/rectum	PMS2	90	0	0
+50	FEMALE	153154	Colon/sigmoid/rectum	PMS2	117	0	0
+55	FEMALE	153154	Colon/sigmoid/rectum	PMS2	138	0	0
+60	FEMALE	153154	Colon/sigmoid/rectum	PMS2	137	0	0
+65	FEMALE	153154	Colon/sigmoid/rectum	PMS2	98	1	0.0102040816326531
+70	FEMALE	153154	Colon/sigmoid/rectum	PMS2	39	0	0
+75	FEMALE	153154	Colon/sigmoid/rectum	PMS2	22	0	0
+25	FEMALE	VP_LS_AIR_BASE	Any	MLH1	669	0	0
+30	FEMALE	VP_LS_AIR_BASE	Any	MLH1	908	11	0.0121145374449339
+35	FEMALE	VP_LS_AIR_BASE	Any	MLH1	1059	22	0.0207743153918791
+40	FEMALE	VP_LS_AIR_BASE	Any	MLH1	1127	34	0.0301685891748004
+45	FEMALE	VP_LS_AIR_BASE	Any	MLH1	927	28	0.0302049622437972
+50	FEMALE	VP_LS_AIR_BASE	Any	MLH1	682	30	0.0439882697947214
+55	FEMALE	VP_LS_AIR_BASE	Any	MLH1	458	19	0.0414847161572052
+60	FEMALE	VP_LS_AIR_BASE	Any	MLH1	284	14	0.0492957746478873
+65	FEMALE	VP_LS_AIR_BASE	Any	MLH1	136	9	0.0661764705882353
+70	FEMALE	VP_LS_AIR_BASE	Any	MLH1	65	2	0.0307692307692308
+75	FEMALE	VP_LS_AIR_BASE	Any	MLH1	43	3	0.0697674418604651
+25	FEMALE	VP_LS_AIR_BASE	Any	MSH2	498	3	0.00602409638554217
+30	FEMALE	VP_LS_AIR_BASE	Any	MSH2	662	11	0.0166163141993958
+35	FEMALE	VP_LS_AIR_BASE	Any	MSH2	809	7	0.00865265760197775
+40	FEMALE	VP_LS_AIR_BASE	Any	MSH2	766	28	0.0365535248041775
+45	FEMALE	VP_LS_AIR_BASE	Any	MSH2	635	24	0.0377952755905512
+50	FEMALE	VP_LS_AIR_BASE	Any	MSH2	476	24	0.0504201680672269
+55	FEMALE	VP_LS_AIR_BASE	Any	MSH2	362	7	0.0193370165745856
+60	FEMALE	VP_LS_AIR_BASE	Any	MSH2	254	7	0.0275590551181102
+65	FEMALE	VP_LS_AIR_BASE	Any	MSH2	133	11	0.0827067669172932
+70	FEMALE	VP_LS_AIR_BASE	Any	MSH2	80	6	0.075
+75	FEMALE	VP_LS_AIR_BASE	Any	MSH2	40	3	0.075
+25	FEMALE	VP_LS_AIR_BASE	Any	MSH6	68	0	0
+30	FEMALE	VP_LS_AIR_BASE	Any	MSH6	128	0	0
+35	FEMALE	VP_LS_AIR_BASE	Any	MSH6	184	1	0.00543478260869565
+40	FEMALE	VP_LS_AIR_BASE	Any	MSH6	231	3	0.012987012987013
+45	FEMALE	VP_LS_AIR_BASE	Any	MSH6	234	5	0.0213675213675214
+50	FEMALE	VP_LS_AIR_BASE	Any	MSH6	236	6	0.0254237288135593
+55	FEMALE	VP_LS_AIR_BASE	Any	MSH6	174	7	0.0402298850574713
+60	FEMALE	VP_LS_AIR_BASE	Any	MSH6	82	4	0.0487804878048781
+65	FEMALE	VP_LS_AIR_BASE	Any	MSH6	57	2	0.0350877192982456
+70	FEMALE	VP_LS_AIR_BASE	Any	MSH6	43	0	0
+75	FEMALE	VP_LS_AIR_BASE	Any	MSH6	25	1	0.04
+25	FEMALE	VP_LS_AIR_BASE	Any	PMS2	33	0	0
+30	FEMALE	VP_LS_AIR_BASE	Any	PMS2	39	0	0
+35	FEMALE	VP_LS_AIR_BASE	Any	PMS2	72	0	0
+40	FEMALE	VP_LS_AIR_BASE	Any	PMS2	68	0	0
+45	FEMALE	VP_LS_AIR_BASE	Any	PMS2	63	1	0.0158730158730159
+50	FEMALE	VP_LS_AIR_BASE	Any	PMS2	87	2	0.0229885057471264
+55	FEMALE	VP_LS_AIR_BASE	Any	PMS2	106	1	0.00943396226415094
+60	FEMALE	VP_LS_AIR_BASE	Any	PMS2	98	0	0
+65	FEMALE	VP_LS_AIR_BASE	Any	PMS2	67	0	0
+70	FEMALE	VP_LS_AIR_BASE	Any	PMS2	36	1	0.0277777777777778
+75	FEMALE	VP_LS_AIR_BASE	Any	PMS2	20	0	0
+25	MALE	153154	Colon/sigmoid/rectum	MLH1	550	5	0.00909090909090909
+30	MALE	153154	Colon/sigmoid/rectum	MLH1	887	11	0.0124013528748591
+35	MALE	153154	Colon/sigmoid/rectum	MLH1	984	14	0.0142276422764228
+40	MALE	153154	Colon/sigmoid/rectum	MLH1	994	21	0.0211267605633803
+45	MALE	153154	Colon/sigmoid/rectum	MLH1	824	20	0.0242718446601942
+50	MALE	153154	Colon/sigmoid/rectum	MLH1	605	13	0.0214876033057851
+55	MALE	153154	Colon/sigmoid/rectum	MLH1	422	7	0.0165876777251185
+60	MALE	153154	Colon/sigmoid/rectum	MLH1	271	5	0.018450184501845
+65	MALE	153154	Colon/sigmoid/rectum	MLH1	181	2	0.0110497237569061
+70	MALE	153154	Colon/sigmoid/rectum	MLH1	106	2	0.0188679245283019
+75	MALE	153154	Colon/sigmoid/rectum	MLH1	40	0	0
+25	MALE	153154	Colon/sigmoid/rectum	MSH2	388	2	0.00515463917525773
+30	MALE	153154	Colon/sigmoid/rectum	MSH2	617	3	0.00486223662884927
+35	MALE	153154	Colon/sigmoid/rectum	MSH2	747	8	0.0107095046854083
+40	MALE	153154	Colon/sigmoid/rectum	MSH2	761	9	0.011826544021025
+45	MALE	153154	Colon/sigmoid/rectum	MSH2	703	5	0.00711237553342817
+50	MALE	153154	Colon/sigmoid/rectum	MSH2	563	13	0.0230905861456483
+55	MALE	153154	Colon/sigmoid/rectum	MSH2	398	8	0.0201005025125628
+60	MALE	153154	Colon/sigmoid/rectum	MSH2	232	4	0.0172413793103448
+65	MALE	153154	Colon/sigmoid/rectum	MSH2	129	3	0.0232558139534884
+70	MALE	153154	Colon/sigmoid/rectum	MSH2	101	2	0.0198019801980198
+75	MALE	153154	Colon/sigmoid/rectum	MSH2	52	0	0
+25	MALE	153154	Colon/sigmoid/rectum	MSH6	64	0	0
+30	MALE	153154	Colon/sigmoid/rectum	MSH6	132	1	0.00757575757575758
+35	MALE	153154	Colon/sigmoid/rectum	MSH6	189	1	0.00529100529100529
+40	MALE	153154	Colon/sigmoid/rectum	MSH6	208	0	0
+45	MALE	153154	Colon/sigmoid/rectum	MSH6	173	0	0
+50	MALE	153154	Colon/sigmoid/rectum	MSH6	141	0	0
+55	MALE	153154	Colon/sigmoid/rectum	MSH6	178	1	0.00561797752808989
+60	MALE	153154	Colon/sigmoid/rectum	MSH6	156	1	0.00641025641025641
+65	MALE	153154	Colon/sigmoid/rectum	MSH6	103	0	0
+70	MALE	153154	Colon/sigmoid/rectum	MSH6	66	1	0.0151515151515152
+75	MALE	153154	Colon/sigmoid/rectum	MSH6	34	1	0.0294117647058824
+25	MALE	153154	Colon/sigmoid/rectum	PMS2	15	0	0
+30	MALE	153154	Colon/sigmoid/rectum	PMS2	35	0	0
+35	MALE	153154	Colon/sigmoid/rectum	PMS2	62	0	0
+40	MALE	153154	Colon/sigmoid/rectum	PMS2	57	0	0
+45	MALE	153154	Colon/sigmoid/rectum	PMS2	58	0	0
+50	MALE	153154	Colon/sigmoid/rectum	PMS2	59	0	0
+55	MALE	153154	Colon/sigmoid/rectum	PMS2	75	0	0
+60	MALE	153154	Colon/sigmoid/rectum	PMS2	67	0	0
+65	MALE	153154	Colon/sigmoid/rectum	PMS2	47	0	0
+70	MALE	153154	Colon/sigmoid/rectum	PMS2	28	1	0.0357142857142857
+75	MALE	153154	Colon/sigmoid/rectum	PMS2	3	0	0
+25	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	605	0	0
+30	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1041	0	0
+35	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1303	2	0.00153491941673062
+40	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1504	3	0.00199468085106383
+45	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1544	1	0.000647668393782383
+50	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1404	4	0.00284900284900285
+55	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	1171	4	0.00341588385994876
+60	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	897	7	0.00780379041248606
+65	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	635	10	0.015748031496063
+70	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	402	6	0.0149253731343284
+75	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MLH1	191	4	0.0209424083769634
+25	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	440	0	0
+30	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	714	0	0
+35	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	994	0	0
+40	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1207	0	0
+45	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1283	3	0.00233826968043648
+50	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1238	8	0.00646203554119548
+55	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	1019	6	0.00588812561334642
+60	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	789	5	0.00633713561470215
+65	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	595	8	0.0134453781512605
+70	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	342	3	0.0087719298245614
+75	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH2	120	3	0.025
+25	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	72	0	0
+30	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	153	0	0
+35	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	239	0	0
+40	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	248	0	0
+45	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	232	0	0
+50	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	227	1	0.00440528634361234
+55	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	274	1	0.00364963503649635
+60	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	260	0	0
+65	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	200	0	0
+70	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	120	1	0.00833333333333333
+75	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	MSH6	67	0	0
+25	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	16	0	0
+30	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	39	0	0
+35	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	68	0	0
+40	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	74	0	0
+45	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	108	1	0.00925925925925926
+50	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	140	0	0
+55	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	154	0	0
+60	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	123	0	0
+65	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	95	0	0
+70	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	63	0	0
+75	MALE	ICD9UGI	Stomach/duodenum/bile duct/gall bladder/pancreas	PMS2	39	0	0
+25	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	605	0	0
+30	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1044	0	0
+35	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1319	0	0
+40	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1520	0	0
+45	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1566	5	0.00319284802043423
+50	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1416	2	0.00141242937853107
+55	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	1177	4	0.00339847068819031
+60	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	886	4	0.00451467268623025
+65	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	638	2	0.00313479623824451
+70	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	410	3	0.00731707317073171
+75	MALE	ICD9URO	Urine bladder/ureter/kidney	MLH1	167	1	0.00598802395209581
+25	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	440	0	0
+30	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	721	0	0
+35	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	997	0	0
+40	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1188	5	0.00420875420875421
+45	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1273	4	0.00314218381775334
+50	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	1237	9	0.00727566693613581
+55	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	999	14	0.014014014014014
+60	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	707	12	0.016973125884017
+65	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	487	3	0.00616016427104723
+70	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	275	4	0.0145454545454545
+75	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH2	80	0	0
+25	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	72	0	0
+30	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	155	0	0
+35	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	239	0	0
+40	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	248	0	0
+45	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	230	2	0.00869565217391304
+50	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	230	0	0
+55	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	286	1	0.0034965034965035
+60	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	268	0	0
+65	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	214	0	0
+70	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	121	1	0.00826446280991736
+75	MALE	ICD9URO	Urine bladder/ureter/kidney	MSH6	64	0	0
+25	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	16	0	0
+30	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	39	0	0
+35	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	68	0	0
+40	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	79	0	0
+45	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	111	0	0
+50	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	147	0	0
+55	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	157	0	0
+60	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	123	0	0
+65	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	93	0	0
+70	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	63	1	0.0158730158730159
+75	MALE	ICD9URO	Urine bladder/ureter/kidney	PMS2	40	0	0
+25	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	605	0	0
+30	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	1044	0	0
+35	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	1319	0	0
+40	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	1520	0	0
+45	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	1564	6	0.00383631713554987
+50	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	1410	2	0.00141843971631206
+55	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	1155	10	0.00865800865800866
+60	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	848	7	0.00825471698113208
+65	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	613	4	0.0065252854812398
+70	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	382	9	0.0235602094240838
+75	MALE	185188189	Prostate/urine bladder/ureter/kidney	MLH1	157	2	0.0127388535031847
+25	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	440	0	0
+30	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	721	0	0
+35	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	997	0	0
+40	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	1188	5	0.00420875420875421
+45	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	1273	5	0.00392772977219167
+50	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	1234	14	0.0113452188006483
+55	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	985	21	0.0213197969543147
+60	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	670	19	0.0283582089552239
+65	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	440	10	0.0227272727272727
+70	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	230	6	0.0260869565217391
+75	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH2	69	0	0
+25	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	72	0	0
+30	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	155	0	0
+35	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	239	0	0
+40	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	248	0	0
+45	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	230	2	0.00869565217391304
+50	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	229	0	0
+55	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	274	1	0.00364963503649635
+60	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	252	0	0
+65	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	203	2	0.00985221674876847
+70	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	107	2	0.0186915887850467
+75	MALE	185188189	Prostate/urine bladder/ureter/kidney	MSH6	57	0	0
+25	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	16	0	0
+30	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	39	0	0
+35	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	68	0	0
+40	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	77	0	0
+45	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	107	1	0.00934579439252336
+50	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	142	0	0
+55	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	152	0	0
+60	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	120	0	0
+65	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	93	0	0
+70	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	63	1	0.0158730158730159
+75	MALE	185188189	Prostate/urine bladder/ureter/kidney	PMS2	40	0	0
+25	MALE	VP_LS_AIR_BASE	Any	MLH1	548	5	0.00912408759124088
+30	MALE	VP_LS_AIR_BASE	Any	MLH1	880	13	0.0147727272727273
+35	MALE	VP_LS_AIR_BASE	Any	MLH1	967	17	0.0175801447776629
+40	MALE	VP_LS_AIR_BASE	Any	MLH1	954	25	0.0262054507337526
+45	MALE	VP_LS_AIR_BASE	Any	MLH1	782	24	0.030690537084399
+50	MALE	VP_LS_AIR_BASE	Any	MLH1	571	15	0.0262697022767075
+55	MALE	VP_LS_AIR_BASE	Any	MLH1	375	13	0.0346666666666667
+60	MALE	VP_LS_AIR_BASE	Any	MLH1	205	5	0.024390243902439
+65	MALE	VP_LS_AIR_BASE	Any	MLH1	132	2	0.0151515151515152
+70	MALE	VP_LS_AIR_BASE	Any	MLH1	84	4	0.0476190476190476
+75	MALE	VP_LS_AIR_BASE	Any	MLH1	34	0	0
+25	MALE	VP_LS_AIR_BASE	Any	MSH2	387	2	0.00516795865633075
+30	MALE	VP_LS_AIR_BASE	Any	MSH2	609	6	0.00985221674876847
+35	MALE	VP_LS_AIR_BASE	Any	MSH2	722	8	0.0110803324099723
+40	MALE	VP_LS_AIR_BASE	Any	MSH2	725	13	0.0179310344827586
+45	MALE	VP_LS_AIR_BASE	Any	MSH2	634	13	0.0205047318611987
+50	MALE	VP_LS_AIR_BASE	Any	MSH2	471	21	0.0445859872611465
+55	MALE	VP_LS_AIR_BASE	Any	MSH2	307	17	0.0553745928338762
+60	MALE	VP_LS_AIR_BASE	Any	MSH2	169	6	0.0355029585798817
+65	MALE	VP_LS_AIR_BASE	Any	MSH2	74	3	0.0405405405405405
+70	MALE	VP_LS_AIR_BASE	Any	MSH2	60	2	0.0333333333333333
+75	MALE	VP_LS_AIR_BASE	Any	MSH2	32	0	0
+25	MALE	VP_LS_AIR_BASE	Any	MSH6	64	0	0
+30	MALE	VP_LS_AIR_BASE	Any	MSH6	132	1	0.00757575757575758
+35	MALE	VP_LS_AIR_BASE	Any	MSH6	189	1	0.00529100529100529
+40	MALE	VP_LS_AIR_BASE	Any	MSH6	202	1	0.00495049504950495
+45	MALE	VP_LS_AIR_BASE	Any	MSH6	164	2	0.0121951219512195
+50	MALE	VP_LS_AIR_BASE	Any	MSH6	136	1	0.00735294117647059
+55	MALE	VP_LS_AIR_BASE	Any	MSH6	152	3	0.0197368421052632
+60	MALE	VP_LS_AIR_BASE	Any	MSH6	127	1	0.0078740157480315
+65	MALE	VP_LS_AIR_BASE	Any	MSH6	88	0	0
+70	MALE	VP_LS_AIR_BASE	Any	MSH6	48	2	0.0416666666666667
+75	MALE	VP_LS_AIR_BASE	Any	MSH6	26	0	0
+25	MALE	VP_LS_AIR_BASE	Any	PMS2	15	0	0
+30	MALE	VP_LS_AIR_BASE	Any	PMS2	35	0	0
+35	MALE	VP_LS_AIR_BASE	Any	PMS2	62	0	0
+40	MALE	VP_LS_AIR_BASE	Any	PMS2	50	0	0
+45	MALE	VP_LS_AIR_BASE	Any	PMS2	55	1	0.0181818181818182
+50	MALE	VP_LS_AIR_BASE	Any	PMS2	54	0	0
+55	MALE	VP_LS_AIR_BASE	Any	PMS2	67	2	0.0298507462686567
+60	MALE	VP_LS_AIR_BASE	Any	PMS2	61	0	0
+65	MALE	VP_LS_AIR_BASE	Any	PMS2	44	0	0
+70	MALE	VP_LS_AIR_BASE	Any	PMS2	23	1	0.0434782608695652
+75	MALE	VP_LS_AIR_BASE	Any	PMS2	3	0	0

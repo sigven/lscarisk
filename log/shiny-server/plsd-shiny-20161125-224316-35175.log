@@ -1,0 +1,7 @@
+
+Listening on http://127.0.0.1:35175
+Warning: Error in library: there is no package called ‘ggplot2’
+Stack trace (innermost first):
+    41: library
+     1: runApp
+Error : An error has occurred. Check your logs or contact the app author for clarification.
