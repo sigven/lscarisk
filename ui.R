@@ -7,7 +7,7 @@ library(shinythemes)
 shinyUI(
   fluidPage(
     theme = shinythemes::shinytheme("cosmo"),
-    tags$head(includeScript("gtag.js")),
+    tags$head(includeHTML("google-analytics-ga4.html")),
     tags$head(tags$style(type='text/css', ".navbar {height: 150px} ")),
     tags$head(tags$style( HTML(' .nav {margin-top:40px;}'))),
 

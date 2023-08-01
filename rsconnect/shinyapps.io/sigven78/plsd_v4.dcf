@@ -5,10 +5,10 @@ account: sigven78
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 207407
-bundleId: 6968781
+bundleId: 7518560
 url: https://sigven78.shinyapps.io/plsd_v4/
-when: 1679009202.64318
-lastSyncTime: 1679009202.64319
+when: 1690893344.52136
+lastSyncTime: 1690893344.52137
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: log/shiny-server/plsd-shiny-20161125-224316-35175.log|data-raw
+ignoredFiles: log/shiny-server/plsd-shiny-20161125-224316-35175.log
